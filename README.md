@@ -116,9 +116,9 @@ pkg install ffmpeg -y
 pkg install wget
 pkg install imagemagick -y
 git clone https://github.com/Toxic1239/Queen-RiasV3_
-cd Queen-RiasV3
+cd Queen-RiasV3_
 yarn install
-npm start
+yarn start
 ```
 
 ---
